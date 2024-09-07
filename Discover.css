@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    position: relative;
+    
+}
+img{
+position: absolute;
+z-index:-1;
+width:100vw;
+height: 100vh;
+}
+.Discover{
+    color: aliceblue;
+    font-size: 4rem;
+    padding-left: 40%;
+   padding-top: 5%;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+   
+   
+  
+}
